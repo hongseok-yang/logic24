@@ -64,24 +64,24 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/26(Tue) - Resolution (Ch5). 
 * 03/28(Thu) - The DPLL Algorithm (Ch6). 
 * 04/02(Tue) - The DPLL Algorithm (Ch6). 
-* 04/04(Thu) - The Compactness Theorem (Ch7). 
+* 04/04(Thu) - Lower Bounds for Resolution.
 * 04/09(Tue) - The Compactness Theorem (Ch7). 
-* 04/11(Thu) - First-Order Logic (Ch8). 
+* 04/11(Thu) - The Compactness Theorem (Ch7). 
 * 04/16(Tue) __**[NO LECTURE]**__ Midterm exam period.
 * 04/18(Thu) __**[NO LECTURE]**__ Midterm exam period.
 * 04/23(Tue) - First-Order Logic (Ch8). 
-* 04/25(Thu) - Normal Forms for First-Order Logic (Ch9). 
-* 04/30(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 04/25(Thu) - First-Order Logic (Ch8). 
+* 04/30(Tue) - Normal Forms for First-Order Logic (Ch9). 
 * 05/02(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
-* 05/07(Tue) - Applications of Herbrand's Theorem (Ch11). 
+* 05/07(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
 * 05/09(Thu) - Applications of Herbrand's Theorem (Ch11). 
 * 05/14(Tue) - __**[NO LECTURE]**__ Interview for KAIST graduate admission.
-* 05/16(Thu) - Resolution for First-Order Logic (Ch12). 
-* 05/21(Tue) - Compactness for First-Order Logic (Ch13). 
+* 05/16(Thu) - Applications of Herbrand's Theorem (Ch11). 
+* 05/21(Tue) - Resolution for First-Order Logic (Ch12). 
 * 05/23(Thu) - Compactness for First-Order Logic (Ch13). 
-* 05/28(Tue) - Decidable Theories (Ch14). 
+* 05/28(Tue) - Compactness for First-Order Logic (Ch13). 
 * 05/30(Thu) - Decidable Theories (Ch14). 
-* 06/04(Tue) - Special Advanced Topic.
+* 06/04(Tue) - Decidable Theories (Ch14). 
 * 06/06(Thu) - __**[NO LECTURE]**__ National holiday.
 * 06/11(Tue) - __**[NO LECTURE]**__ Final exam period.
 * 06/13(Thu) - __**Final exam.**__
@@ -91,21 +91,22 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 The lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haase's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics that we cover throughout the course.
 
-* History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture1-slides.pdf)).
-* Propositional Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture2-slides.pdf)).
-* Equivalences and Normal Forms. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture3-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture3-slides.pdf)).
-* Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture4-slides.pdf)).
-* Resolution. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture5-slides.pdf)).
-* The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture6-slides.pdf)).
-* The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture7-slides.pdf)).
-* First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture8-slides.pdf)).
-* Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture9-slides.pdf)).
-* Herbrand's Theorem and Ground Resolution. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture10-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture10-slides.pdf)).
-* Applications of Herbrand's Theorem. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture11-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture11-slides.pdf)).
-* Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture12-slides.pdf)).
-* Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture13-slides.pdf)).
-* Decidable Theories. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture14-slides.pdf)).
-* Quantified Boolean Formulas, Polynomial Hierarchy, and Polynomial Space. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture15-notes.pdf)).
+* History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture1-slides.pdf)).
+* Propositional Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture2-slides.pdf)).
+* Equivalences and Normal Forms. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture3-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture3-slides.pdf)).
+* Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture4-slides.pdf)).
+* Resolution. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture5-slides.pdf)).
+* The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture6-slides.pdf)).
+* Lower Bounds for Resolution ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture6b-notes.pdf))
+* The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture7-slides.pdf)).
+* First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture8-slides.pdf)).
+* Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture9-slides.pdf)).
+* Herbrand's Theorem and Ground Resolution. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture10-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture10-slides.pdf)).
+* Applications of Herbrand's Theorem. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture11-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture11-slides.pdf)).
+* Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture12-slides.pdf)).
+* Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture13-slides.pdf)).
+* Decidable Theories. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture14-slides.pdf)).
+* Quantified Boolean Formulas, Polynomial Hierarchy, and Polynomial Space. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture15-notes.pdf)).
 
 
 ## 6. Programming Assignment and Report
@@ -198,7 +199,7 @@ The following webpages contain benchmark problems in DIMACS format:
 
 Those problems have a little bit different format described in the DIMACS format above; clause can be expressed on several lines, ill-formatted end lines. Therefore, you may need to modify your code or the problems to test them. However, the test cases for grading will strictly obey the DIMACS format above.  In the course webpage, we uploaded a zip file that contains some test cases we used before. To see the file, follow the below link:
 
-* [https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip](https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip).
+* [https://github.com/hongseok-yang/logic24/blob/master/Others/Test_Case.zip](https://github.com/hongseok-yang/logic24/blob/master/Others/Test_Case.zip).
 
 If you implemented the DPLL algorithm in the lecture correctly, then your code will return a result in 1 minute for every cases in the above zip file (tested in i7 7700HQ). Note that these cases are just examples, not necessarily ones that we will use to test your code for marking; we will certainly try new test cases with various difficulty. Thus, even when your code finds a right answer to every provided case within 1 minute, it may perform badly on the real test cases, and fail to get good marks.
 

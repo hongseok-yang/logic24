@@ -97,7 +97,7 @@ The lectures are based on the following lecture notes and slides, which are mino
 * Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture4-slides.pdf)).
 * Resolution. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture5-slides.pdf)).
 * The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture6-slides.pdf)).
-* Lower Bounds for Resolution ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture6b-notes.pdf))
+* Lower Bounds for Resolution. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture6b-notes.pdf)).
 * The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture7-slides.pdf)).
 * First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture8-slides.pdf)).
 * Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic24/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic24/blob/master/Slides/lecture9-slides.pdf)).
@@ -124,7 +124,7 @@ Here are two tasks that you will have to do.
 
 #### 6.2. Deadline
 
-* __**23:59 of the 22nd of May in 2023 (Monday).**__ Summit both your implementation and report in KLMS.
+* __**23:59 of the 20th of May in 2024 (Monday).**__ Summit both your implementation and report in KLMS.
 
 #### 6.3. Programming Language to Use
 

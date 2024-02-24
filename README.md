@@ -41,7 +41,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 #### 2.4. Final Exam
 
 * Place: 2445 in E3-1.
-* Time: 9:30 - 11:30 on 13 June 2024 (Thursday).
+* Time: 10:00 - 11:45 on 13 June 2024 (Thursday).
 
 #### 2.5. Online Discussion
 

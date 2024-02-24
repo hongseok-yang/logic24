@@ -53,38 +53,38 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 4. Tentative Plan
 
-* 02/28(Tue) - History of Mathematical Logic in Computer Science (Ch1). 
-* 03/02(Thu) - Propositional Logic (Ch2).
-* 03/07(Tue) - Equivalences and Normal Forms (Ch3). 
-* 03/09(Thu) - Equivalences and Normal Forms (Ch3). 
-* 03/14(Tue) - Polynomial-Time Formula Classes (Ch4). 
-* 03/16(Thu) - Polynomial-Time Formula Classes (Ch4). 
-* 03/21(Tue) - Polynomial-Time Formula Classes (Ch4). 
-* 03/23(Thu) - Resolution (Ch5). 
-* 03/28(Tue) - Resolution (Ch5). 
-* 03/30(Thu) - The DPLL Algorithm (Ch6). 
-* 04/04(Tue) - The DPLL Algorithm (Ch6). 
-* 04/06(Thu) - The Compactness Theorem (Ch7). 
-* 04/11(Tue) - The Compactness Theorem (Ch7). 
-* 04/13(Thu) - First-Order Logic (Ch8). 
-* 04/18(Tue) __**[NO LECTURE]**__ Midterm exam period.
-* 04/20(Thu) __**[NO LECTURE]**__ Midterm exam period.
-* 04/25(Tue) - First-Order Logic (Ch8). 
-* 04/27(Thu) - Normal Forms for First-Order Logic (Ch9). 
-* 05/02(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
-* 05/04(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
-* 05/09(Tue) - Applications of Herbrand's Theorem (Ch11). 
-* 05/11(Thu) - Applications of Herbrand's Theorem (Ch11). 
-* 05/16(Tue) - Resolution for First-Order Logic (Ch12). 
-* 05/18(Thu) - Compactness for First-Order Logic (Ch13). 
-* 05/23(Tue) - Compactness for First-Order Logic (Ch13). 
-* 05/25(Thu) - Decidable Theories (Ch14). 
-* 05/30(Tue) - Decidable Theories (Ch14). 
-* 06/01(Thu) - Quantified Boolean Formulas, Polynomial Hierarchy, and Polynomial Space.
-* 06/06(Tue) - __**[NO LECTURE]**__ National holiday.
-* 06/08(Thu) - __**[NO LECTURE]**__ All the course materials are covered.
-* 06/13(Tue) - __**[NO LECTURE]**__ Final exam period.
-* 06/15(Thu) - __**Final exam.**__
+* 02/27(Tue) - History of Mathematical Logic in Computer Science (Ch1). 
+* 02/29(Thu) - Propositional Logic (Ch2).
+* 03/05(Tue) - Equivalences and Normal Forms (Ch3). 
+* 03/07(Thu) - Equivalences and Normal Forms (Ch3). 
+* 03/12(Tue) - Polynomial-Time Formula Classes (Ch4). 
+* 03/14(Thu) - Polynomial-Time Formula Classes (Ch4). 
+* 03/19(Tue) - Polynomial-Time Formula Classes (Ch4). 
+* 03/21(Thu) - Resolution (Ch5). 
+* 03/26(Tue) - Resolution (Ch5). 
+* 03/28(Thu) - The DPLL Algorithm (Ch6). 
+* 04/02(Tue) - The DPLL Algorithm (Ch6). 
+* 04/04(Thu) - The Compactness Theorem (Ch7). 
+* 04/09(Tue) - The Compactness Theorem (Ch7). 
+* 04/11(Thu) - First-Order Logic (Ch8). 
+* 04/16(Tue) __**[NO LECTURE]**__ Midterm exam period.
+* 04/18(Thu) __**[NO LECTURE]**__ Midterm exam period.
+* 04/23(Tue) - First-Order Logic (Ch8). 
+* 04/25(Thu) - Normal Forms for First-Order Logic (Ch9). 
+* 04/30(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 05/02(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 05/07(Tue) - Applications of Herbrand's Theorem (Ch11). 
+* 05/09(Thu) - Applications of Herbrand's Theorem (Ch11). 
+* 05/14(Tue) - __**[NO LECTURE]**__ Interview for KAIST graduate admission.
+* 05/16(Thu) - Resolution for First-Order Logic (Ch12). 
+* 05/21(Tue) - Compactness for First-Order Logic (Ch13). 
+* 05/23(Thu) - Compactness for First-Order Logic (Ch13). 
+* 05/28(Tue) - Decidable Theories (Ch14). 
+* 05/30(Thu) - Decidable Theories (Ch14). 
+* 06/04(Tue) - Special Advanced Topic.
+* 06/06(Thu) - __**[NO LECTURE]**__ National holiday.
+* 06/11(Tue) - __**[NO LECTURE]**__ Final exam period.
+* 06/13(Thu) - __**Final exam.**__
 
 
 ## 5. Lecture Notes and Slides

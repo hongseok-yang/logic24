@@ -75,9 +75,9 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 05/02(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
 * 05/07(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
 * 05/09(Thu) - Applications of Herbrand's Theorem (Ch11). 
-* 05/14(Tue) - __**[NO LECTURE]**__ Interview for KAIST graduate admission.
-* 05/16(Thu) - Applications of Herbrand's Theorem (Ch11). 
-* 05/21(Tue) - Resolution for First-Order Logic (Ch12). 
+* 05/14(Tue) - Applications of Herbrand's Theorem (Ch11). 
+* 05/16(Thu) - Resolution for First-Order Logic (Ch12). 
+* 05/21(Tue) - __**[NO LECTURE]**__ Interview for KAIST graduate admission.
 * 05/23(Thu) - Compactness for First-Order Logic (Ch13). 
 * 05/28(Tue) - Compactness for First-Order Logic (Ch13). 
 * 05/30(Thu) - Decidable Theories (Ch14). 

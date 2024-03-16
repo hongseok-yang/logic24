@@ -6,7 +6,7 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
-#### [March 16] [Homework1](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet1.pdf) is out.
+#### [March 16] [Homework1](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet1-questions.pdf) is out.
 
 The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 29 March 2024 (Friday).
 
@@ -33,7 +33,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 * Homework (20%). Programming assignment and report (30%). Final exam (50%).
 
-* [Homework1](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 29 March 2024 (Friday).
+* [Homework1](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet1-questions.pdf) - Deadline: 6:00pm on 29 March 2024 (Friday).
 
 #### 2.2. Teaching Staffs
 

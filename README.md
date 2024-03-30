@@ -69,13 +69,13 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 03/12(Tue) - Polynomial-Time Formula Classes (Ch4). 
 * 03/14(Thu) - Polynomial-Time Formula Classes (Ch4). 
 * 03/19(Tue) - Polynomial-Time Formula Classes (Ch4). 
-* 03/21(Thu) - Resolution (Ch5). 
+* 03/21(Thu) - Polynomial-Time Formula Classes (Ch4). 
 * 03/26(Tue) - Resolution (Ch5). 
-* 03/28(Thu) - The DPLL Algorithm (Ch6). 
+* 03/28(Thu) - Resolution (Ch5). 
 * 04/02(Tue) - The DPLL Algorithm (Ch6). 
-* 04/04(Thu) - Lower Bounds for Resolution.
+* 04/04(Thu) - The DPLL Algorithm (Ch6). 
 * 04/09(Tue) - The Compactness Theorem (Ch7). 
-* 04/11(Thu) - The Compactness Theorem (Ch7). 
+* 04/11(Thu) - Lower Bounds for Resolution.
 * 04/16(Tue) __**[NO LECTURE]**__ Midterm exam period.
 * 04/18(Thu) __**[NO LECTURE]**__ Midterm exam period.
 * 04/23(Tue) - First-Order Logic (Ch8). 

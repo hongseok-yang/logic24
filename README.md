@@ -148,7 +148,7 @@ Here are two tasks that you will have to do.
 
 #### 6.4. Formats of Input and Output
 
-* Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
+* Follow DIMACS input/output requirements. You can learn about these requirements at the KLMS or [Archive](https://web.archive.org/web/20190325181937/https://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
 * Assume that the input is always in CNF format.
 
 #### 6.5. Input Interface

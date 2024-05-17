@@ -6,6 +6,12 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
+#### [May 17] [Homework4](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet4-questions.pdf) is out.
+
+The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 31 May 2024 (Friday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [May 16] No lecture on 21 May 2024 (Tuesday).
 
 There will not be a lecture on 21 May 2024 (Tuesday). On the whole day of 21 May, Hongseok will have to be in the interview panel for applicants to the KAIST
@@ -13,7 +19,7 @@ graduate program.
 
 #### [May 6] [Homework3](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet3-questions.pdf) is out.
 
-The homework assignment i3 is out. Submit your solutions in KLMS by 6:00pm on 17 May 2024 (Friday).
+The homework assignment 3 is out. Submit your solutions in KLMS by 6:00pm on 17 May 2024 (Friday).
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
@@ -79,6 +85,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework1](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet1-questions.pdf) - Deadline: 6:00pm on 29 March 2024 (Friday).
 * [Homework2](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet2-questions.pdf) - Deadline: 6:00pm on 12 April 2024 (Friday).
 * [Homework3](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet3-questions.pdf) - Deadline: 6:00pm on 17 May 2024 (Friday).
+* [Homework4](https://github.com/hongseok-yang/logic24/blob/master/Homework/sheet4-questions.pdf) - Deadline: 6:00pm on 31 May 2024 (Friday).
 
 
 ## 4. Tentative Plan
